@@ -1,1 +1,7 @@
-# simple-song-player-
+# simple-song-player
+
+## Technologies:
+
+- React
+- Redux
+- Semantic UI
