@@ -1,6 +1,10 @@
 import React from "react";
-import { selectSong } from "./actions/selectSong";
+import SongList from "./components/SongList/SongList";
 const App = () => {
-  return <div className="App"> React is up and running</div>;
+  return (
+    <div className="App">
+      <SongList />
+    </div>
+  );
 };
 export default App;
